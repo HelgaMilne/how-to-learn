@@ -16,6 +16,11 @@
 * видео, iframe, embed, API,
 * git
 
+###  Статус проекта:
+<img src="https://github.com/HelgaMilne/HelgaMilne/blob/main/src/images/passed_code_review.svg" alt="badge" width="160px">
+
+-----
+
 #### Планы по доработке проекта
 
     подключить другие шрифты;
